@@ -9,7 +9,8 @@
                     </button>
 
                     <a href="/" class="logo">
-                        <img src="/assets/logo.png" alt="Carol Logo" width="105" height="25">
+                        <!-- <img src="/assets/logo.png" alt="Carol Logo" width="105" height="25"> -->
+                        <h2>Carol Petshop</h2>
                     </a>
 
                     <nav class="main-nav">
